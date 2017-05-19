@@ -1,0 +1,24 @@
+.title {
+  font-size: 80px;
+}
+.writing {
+  font-size: 22px;
+  margin-top: 30px;
+}
+.writing1 {
+  font-size: 25px;
+  margin-top: 30px
+}
+.image {
+  margin-top: 30px;
+  width: 1200px;
+  height: 600px;
+  border-width: 10px 10px 10px 10px;
+  border-color: gray;
+  border-style: solid;
+}
+.list {
+  font-family: monospace;
+  text-align: center;
+  list-style-position: inside;
+}
