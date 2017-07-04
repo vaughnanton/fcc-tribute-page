@@ -1,5 +1,5 @@
 # fcc_tribute_page
-FreeCodeCamp's first project, first foray into HTML and CSS. Completed March '17.
+First foray into HTML and CSS, via Code Camp's first project. Completed March '17.
 
 This project can be viewed at the following links:
 http://codepen.io/vaughnanton/pen/vxdbWr
