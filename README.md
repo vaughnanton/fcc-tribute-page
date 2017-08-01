@@ -1,4 +1,3 @@
-# fcc_tribute_page
 HTML/CSS tribute page completed for CodeCamp's introductory projects. 
 
 This project can be viewed at the following links:
